@@ -23,6 +23,6 @@ Dies ist die Dokumentation der Importschnittstelle von [MAGELLAN 6](https://mage
 * [WinSchool](WinSchool/winschool.md)
 * [WinSV](WinSV/winsv.md)
 
+## Weitere Dokumentationen
+
 Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](http://doc.stueber.de).
-
-
