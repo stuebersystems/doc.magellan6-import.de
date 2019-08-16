@@ -1,8 +1,6 @@
 # Über diese Dokumentation
 
-Dies ist die elektronische Dokumentation der Importschnittstelle von [MAGELLAN 6](https://magellan.stueber.de).
-
-Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](https://doc.stueber.de).
+Dies ist die Dokumentation der Importschnittstelle von [MAGELLAN 6](https://magellan.stueber.de).
 
 * [Einführung](introduction.md)
 * [Magellan-Importformat](MagImp/magellan-importformat.md)
@@ -24,5 +22,7 @@ Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de
 * [SPlan](SPLAN/splanmd.md)
 * [WinSchool](WinSchool/winschool.md)
 * [WinSV](WinSV/winsv.md)
+
+Das Dokumentationsportal von STÜBER SYSTEMS finden Sie in unter [doc.stueber.de](http://doc.stueber.de).
 
 
