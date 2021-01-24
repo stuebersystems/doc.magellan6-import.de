@@ -1,5 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9fehxk2wxmx8nsa3?svg=true)](https://ci.appveyor.com/project/stueber/doc-magellan6-import-de)
-
 # MAGELLAN 6 Importschnittstelle
 
 Dies ist die deutsche Dokumentation zur Importschnittstelle von MAGELLAN 6. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
